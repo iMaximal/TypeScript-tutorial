@@ -1,0 +1,22 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "This is my study project",
+  "main": "src/classes/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMaximal/TypeScript-tutorial.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Maksim Golitsyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iMaximal/TypeScript-tutorial/issues"
+  },
+  "homepage": "https://github.com/iMaximal/TypeScript-tutorial#readme"
+}
