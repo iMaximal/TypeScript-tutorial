@@ -16,3 +16,6 @@ npm-debug.log
 *.log
 *.lock
 *.map
+
+#for this project
+*.js
