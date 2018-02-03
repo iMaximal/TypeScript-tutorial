@@ -24,3 +24,10 @@ const bike = new Bicycle(2);
 car.drive();
 bike.drive();
 
+
+function GetWheels<w extends Vehicle> (veh: w): number {
+    return veh.drive();
+}
+
+GetWheels(car);
+GetWheels(bike);
